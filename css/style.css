@@ -1,0 +1,18 @@
+.kontener {
+    padding: 10%;
+
+}
+
+.container {
+    color: grey;
+}
+
+
+.btn-link {
+    color: red;
+}
+
+
+.btn:hover {
+    color: blueviolet;
+}
